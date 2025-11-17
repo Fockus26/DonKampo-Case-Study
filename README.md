@@ -10,19 +10,19 @@ DonKampo was developed as a custom commerce and distribution platform designed f
 
 The system allows clients to:
 
-Register and log in based on their business type
+- Register and log in based on their business type
 
-Search and browse tailored product catalogs
+- Search and browse tailored product catalogs
 
-View product variations (and sub-variations)
+- View product variations (and sub-variations)
 
-Manage shopping carts and complete checkout
+- Manage shopping carts and complete checkout
 
-Review their order history
+- Review their order history
 
-Download invoices as PDFs
+- Download invoices as PDFs
 
-Export their order records to Excel
+- Export their order records to Excel
 
 Admins have access to a dedicated dashboard for managing users, orders, sales, commissions, shipping costs, and product catalogs — all with visual reports and Excel exports.
 
